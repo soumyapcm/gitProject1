@@ -8,8 +8,8 @@ key: value
 integerValue: 1                     # integer value
 floatingValue: 1                     # floating vale
 
-stringValue: "456"                   # string with double quotes
-stringValue: 'abc'                  # string with single quotes
+stringValue: "457"                   # string with double quotes
+stringValue: 'abd'                  # string with single quotes
 stringValue: wer                   # string without quotes
 
 booleanValue:true                   # boolean values - true or false
